@@ -4,11 +4,15 @@
 
 using namespace std;
 
+#include "Header.h"
+
 
 
 int main() {
 
-	// hello from master
+
+	// bitwise or example
+
 	int a = 12, b = 25;
 	cout << "a = " << a << endl;
 	cout << "b = " << b << endl;
