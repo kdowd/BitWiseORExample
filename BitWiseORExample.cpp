@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 
-	// hello
+	// bitwise or example
 	int a = 12, b = 25;
 	cout << "a = " << a << endl;
 	cout << "b = " << b << endl;
