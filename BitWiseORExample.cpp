@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 
-	// hello
+	// hello from master
 	int a = 12, b = 25;
 	cout << "a = " << a << endl;
 	cout << "b = " << b << endl;
