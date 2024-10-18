@@ -17,6 +17,7 @@ int main() {
 	cout << "a = " << a << endl;
 	cout << "b = " << b << endl;
 	cout << "a | b = " << (a | b) << endl;
+	cout<<"santosh";
 
 	return 0;
 
